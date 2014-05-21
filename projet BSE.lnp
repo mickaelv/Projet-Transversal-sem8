@@ -1,0 +1,10 @@
+"STARTUP.obj",
+"LIB_UART0.obj",
+"LIB_UART1.obj",
+"main_mika.obj",
+"mesure_distance.obj",
+"servo.obj",
+"ADC1_Init.obj",
+"conversion_metre.obj" 
+TO "projet BSE" 
+RAMSIZE(256) 

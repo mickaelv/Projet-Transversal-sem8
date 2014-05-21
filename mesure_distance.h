@@ -1,0 +1,1 @@
+double mesure_distance(void);
